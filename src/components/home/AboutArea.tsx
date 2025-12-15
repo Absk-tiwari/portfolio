@@ -34,7 +34,7 @@ export default function AboutArea() {
             <div className="col-lg-9 col-sm-9">
               <div className="about-content-part wow fadeInUp delay-0-2s">
                 <p>
-                  I am Abhishek, a seasoned Full-stack Developer with more than 3.5 years of development experience. Hands on experience on development of web applications on OOPS and MVC based architecture. Willing to relocate to the job location accordingly as per the opportunities.
+                  I am Abhishek, a seasoned Full-stack Developer with more than 3.5 years of development experience. Hands on experience on development of web applications on OOPS and MVC based architecture.
                 </p>
               </div>
               <div className="hero-counter-area d-flex justify-content-between wow fadeInUp delay-0-4s">
